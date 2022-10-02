@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Software Development",
+    "id": "software-development-team",
+    "icon": "/domain-icons/dev.svg",
+    "alt": "DEV",
+    "description": "Rome wasn't built in a day, and neither was our website. Learn state-of-the-art app building and end-to-end full stack development with zero compromises. Do you have anything in particular you want to learn? No problem! Our team of developers have experience in various fields, and can help out whenever required."
+  },
+  {
+    "name": "Machine Learning",
+    "id": "machine-learning-team",
+    "icon": "/domain-icons/ml.svg",
+    "alt": "ML",
+    "description": "What if you were told that 15 years from now, the code that you currently write \"manually\", will learn to write itself automatically. Interesting, right? That's barely scratching the surface. Come learn about the future with us where we teach and code machine learning from scratch. We also provide a roadmap so everyone can learn at their own pace."
+  },
+  {
+    "name": "Competitive Programming",
+    "id": "competitive-programming-team",
+    "icon": "/domain-icons/cp.svg",
+    "alt": "CP",
+    "description": "Join us on a journey to master the tricks of the trade - popular CP concepts, algorithms and stratagems, boosting your cognitive, logical reasoning and enhancing your coding interview skills along the way. We also hold contests where you can compete with your peers and challenge yourself. We are available 24/7 to clarify your doubts and for any other assistance you may need."
+  }
+]

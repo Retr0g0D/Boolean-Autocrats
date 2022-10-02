@@ -1,0 +1,35 @@
+[
+  {
+    "text": "Clash Of Code",
+    "date": "21 September 2022",
+    "category": {
+      "tag": "DSA",
+      "color": "purple"
+    },
+    "description": "Clash of Code is a DSA(Data Structures and Algorithms) Contest",
+    "link": {
+      "url": ""
+    },
+    "resource":{
+      "url":""
+    },
+    "status":"finished"    
+  },
+  {
+    "text": "Clash Of Code",
+    "date": "21 September 2022",
+    "category": {
+      "tag": "DSA",
+      "color": "purple"
+    },
+    "description": "Clash of Code is a DSA(Data Structures and Algorithms) Contest",
+    "link": {
+      "url": ""
+    },
+    "resource":{
+      "url":""
+    },
+    "status":"finished"    
+  }
+  
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "The\nCore\nCommittee",
+    "discord": "@Core Committee",
+    "tags": ["admin"],
+    "bgColorStyle": {
+      "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
+    },
+    "members": [
+      {
+        "name": "Uday Awal",
+        "position": "",
+        "alt": "uday",
+        "profilePic": "",
+        "socials": {
+          "discord": "",
+          "linkedin": "",
+          "instagram": null
+        }
+      },
+      {
+        "name": "Paramvir Singh Dhillon",
+        "position": "",
+        "alt": "paramvir",
+        "profilePic": "",
+        "socials": {
+          "discord": "",
+          "linkedin": "",
+          "instagram": ""
+        }
+      },
+      {
+        "name": "Nikhil Tanwar",
+        "position": "",
+        "alt": "Nikhil",
+        "profilePic": "",
+        "socials": {
+          "discord": "",
+          "linkedin": "",
+          "instagram": ""
+        }
+      },
+      {
+        "name": "Karandeep Singh Seghal",
+        "position": "",
+        "alt": "karan",
+        "profilePic": "",
+        "socials": {
+          "discord": "",
+          "linkedin": "",
+          "instagram": ""
+        }
+      },
+      {
+        "name": "Aryan Bhardwaj",
+        "position": "",
+        "alt": "aryan",
+        "profilePic": "",
+        "socials": {
+          "discord": "",
+          "linkedin": "",
+          "instagram": ""
+        }
+      }
+    ]
+  }
+  
+    
+] 
+

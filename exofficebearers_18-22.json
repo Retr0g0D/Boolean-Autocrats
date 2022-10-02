@@ -1,0 +1,98 @@
+[
+    {   
+        "title":"The Core Committee",
+        "overflow":true,
+        "members":[
+            {
+                "name": "Uday Awal",
+                "position":"",
+                "profilePic": ""
+            },
+            {
+                "name": "Paramvir Singh Dhillon ",
+                "position": "",
+                "profilePic": ""
+            },
+            {
+                "name": "Nikhil Tanwar",
+                "position": "",
+                "profilePic": ""  
+            },
+            {
+                "name": "Karandeep Singh Seghal",
+                "position": "",
+                "profilePic": ""
+            },
+            {
+                "name": "Aryan Bhardwaj",
+                "position": "",
+                "profilePic": ""
+            }
+        ]
+    },
+    {
+        "title":"Software Development",
+        "overflow":false,
+        "members":[
+            {
+                "name": "ABC",
+                "position": "Head",
+                "profilePic": ""
+              },
+              {
+                "name": "XYZ",
+                "position": "Deputy Head",
+                "profilePic": ""
+              }            
+        ]
+    },
+    {
+        "title":"Machine Learning ",
+        "overflow":false,
+        "members":[
+            {
+                "name": "ABC",
+                "position": "Head",
+                "profilePic": ""
+
+              },
+              {
+                "name": "XYZ",
+                "position": "Deputy Head",
+                "profilePic": ""
+              }
+        ]
+    },
+    {
+        "title":"Competitive Programming ",
+        "overflow":false,
+        "members":[
+            {
+                "name": "ABC",
+                "position": "Head",
+                "profilePic": ""
+              },
+              {
+                "name": "XYZ",
+                "position": "Deputy Head",
+                "profilePic": ""
+              }
+        ]
+    },
+    {
+        "title":"Design and Social Media ",
+        "overflow":false,
+        "members":[
+            {
+                "name": "ABC",
+                "position": "Head",
+                "profilePic": ""
+              },
+              {
+                "name": "XYZ",
+                "position": "Deputy Head",
+                "profilePic": ""
+              }
+        ]
+    }
+]

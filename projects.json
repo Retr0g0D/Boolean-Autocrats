@@ -1,0 +1,52 @@
+[
+  {
+    "name": "",
+    "techStack": "",
+    "domain": "",
+    "projectImage": "",
+    "contributors": [
+      {
+        "name": "",
+        "picture": "",
+        "role": ""
+      },
+      {
+        "name": "",
+        "picture": "",
+        "role": ""
+      },
+      {
+        "name": "",
+        "picture": "",
+        "role": ""
+      }
+    ],
+    "projectDescription": "",
+    "projectLink": ""
+  },
+  {
+    "name": "Boolean Autocrats Website",
+    "techStack": "Next.js",
+    "domain": "",
+    "projectImage": "",
+    "contributors": [
+      {
+        "name": "contributor1",
+        "picture": "",
+        "role": "in-charge"
+      },
+      {
+        "name": "contributor2",
+        "picture": "",
+        "role": "deputy in-charge"
+      },
+      {
+        "name": "contributor3",
+        "picture": "",
+        "role": "front-end"
+      }
+    ],
+    "projectDescription": "",
+    "projectLink": ""
+  }
+]
